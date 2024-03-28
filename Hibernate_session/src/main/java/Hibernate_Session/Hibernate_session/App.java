@@ -1,17 +1,8 @@
 package Hibernate_Session.Hibernate_session;
 
 import entity.Employee;
-//import many_to_many.Course;
-//import many_to_many.Student;
-//import many_to_one.Category;
-//import many_to_one.Product;
-//import one_to_many.Player;
-//import one_to_many.Team;
-
-
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
-
 import configurations.HibernateUtils;
 
 public class App 
